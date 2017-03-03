@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					946FB0CD1E6A03DF00D2DADA = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 98FJDRK8EE;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 98FJDRK8EE;
 				INFOPLIST_FILE = destroytheworld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = WendyStillwell.destroytheworld;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 98FJDRK8EE;
 				INFOPLIST_FILE = destroytheworld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = WendyStillwell.destroytheworld;
